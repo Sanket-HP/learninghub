@@ -4,7 +4,7 @@ EduHome - Education Is About Academic Excellence
 
 #---------- HEADER ----------#
 
-EduHome
+LearningHub
 
 aria-label = Close menu
 <ion-icon name="close-outline"></ion-icon>
@@ -316,7 +316,7 @@ Contact Info
 <ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
 contact@eduhome.com
 
-Copyright 2022 EduHome. All Rights Reserved by codewithsadee
+Copyright 2023 LearningHub. All Rights Reserved by Sanket-HP
 
 
 
